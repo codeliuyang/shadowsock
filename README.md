@@ -19,7 +19,7 @@
 }
 ````
 
-然后依次执行以下命令，即可翻墙
+然后依次执行以下命令，即可成功
 ````
 # yum install m2crypto python-setuptools
 # easy_install pip
@@ -32,6 +32,8 @@
 # firewall-cmd --reload
 # nohup ssserver -c /etc/shadowsocks.json &
 ````
+
+不同的系统安装不同的shadowsock工具即可
 
 ## 不同系统使用工具
 Android：https://github.com/shadowsocks/shadowsocks-android

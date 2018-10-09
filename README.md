@@ -41,3 +41,5 @@ Android：https://github.com/shadowsocks/shadowsocks-android
 MacOSX：https://github.com/shadowsocks/ShadowsocksX-NG
 
 Windows：https://github.com/shadowsocks/shadowsocks-windows
+
+官方网站所有版本：http://shadowsocks.org/en/download/clients.html

@@ -37,7 +37,8 @@
 
 ## 不同系统使用工具
 Android：https://github.com/shadowsocks/shadowsocks-android
-https://github.com/shadowsocks/shadowsocks-android/releases
+
+Android APK: https://github.com/shadowsocks/shadowsocks-android/releases
 
 MacOSX：https://github.com/shadowsocks/ShadowsocksX-NG
 
